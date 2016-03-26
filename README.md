@@ -1,7 +1,6 @@
 # Doubter
 
-A really awful router, intended for use in terrible web apps but not _really_
-tied to anything in particular.
+A really awful router.
 
 ## Installation
 
@@ -21,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Coming soon.
 
 ## Development
 
