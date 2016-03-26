@@ -1,6 +1,7 @@
 # Doubter
 
-A really awful router.
+A really awful router. There are lots of better solutions out there. Use one of
+them instead.
 
 ## Installation
 
