@@ -1,10 +1,10 @@
 require "doubter/route"
 
 module Doubter
-  class Router
-    class RouteNotMatched < StandardError
-    end
+  class RouteNotMatched < StandardError
+  end
 
+  class Router
     class << self
       %w(GET POST PUT PATCH DELETE).each do |method|
         define_method(method.downcase) do |path, controller:, action:|

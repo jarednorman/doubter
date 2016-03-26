@@ -72,7 +72,7 @@ module Doubter
     end
 
     def test_no_route
-      assert_raises Router::RouteNotMatched do
+      assert_raises RouteNotMatched do
         MyRouter.new path: "/black-sabbath", method: 'GET'
       end
     end
