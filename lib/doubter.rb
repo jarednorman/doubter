@@ -1,5 +1,5 @@
 require "doubter/version"
+require "doubter/router"
 
 module Doubter
-  # Your code goes here...
 end
